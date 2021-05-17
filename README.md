@@ -1,2 +1,2 @@
 # Atcoder-DP-Contest-Solutions
-Contains recursive and iterative solutions . More will be added in future
+Contains both recursive and iterative solutions . More will be added in future
